@@ -1,1 +1,1 @@
-![Alt text for the image](Simple Motor Starter.png)
+![Alt text for the image](SimpleMotorStarter.png)
